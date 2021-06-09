@@ -1235,7 +1235,6 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     WfdService \
     dpmserviceapp \
-    PerformanceMode \
     workloadclassifier \
     QPerformance \
     QXPerformance \
